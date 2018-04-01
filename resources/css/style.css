@@ -439,7 +439,7 @@ footer span a{
     width: 2.2rem;
   }
   header .logo span{
-    font-size: 1rem;
+    display: none;
   }
   header ul.desktop{
     display: none;
@@ -483,10 +483,11 @@ footer span a{
     margin: 0.5rem 0.7rem;
   }
   .info-detail h3{
-    margin: 0.3rem 0.8rem;
+    margin: 0.1rem 0.8rem;
   }
   .info-detail span{
     line-height: 1rem;
+    font-size: 0.9rem;
   }
   #learning{
     padding: 2rem 0rem;
